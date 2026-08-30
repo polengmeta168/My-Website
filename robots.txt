@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://my-website-sl-kealone.vercel.app/sitemap.xml
